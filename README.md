@@ -19,10 +19,10 @@ __REACT-JS-INTERVIEW__
 > Recomendación: No importa terminar todos los ejercicios, lo más importante es la funcionalidad del ejercicio resuelto(s).
 
 ### Contexto:
-Utilizando la api de [Youtube]([https://developers.google.com/youtube/v3/docs/videos/list?hl=es](https://developers.google.com/youtube/v3/docs/videos/list?hl=es)) construir una WebApp que permita obtener un listado de los videos mediante una búsqueda. Haciendo uso de "Drag & Drop" agregar los videos a una lista y ordenarlos, luego de ordenados poder reproducir los videos en el orden especificado o poder dar click para reproducir una canción en concreto.
+Utilizando la api de [Youtube](https://developers.google.com/youtube/v3/docs/videos/list?hl=es)  construir una WebApp que permita obtener un listado de los videos mediante una búsqueda. Haciendo uso de "Drag & Drop" agregar los videos a una lista y ordenarlos, luego de ordenados poder reproducir los videos en el orden especificado o poder dar click para reproducir una canción en concreto.
 
 ### Antes de empezar:
-- La data a consumir proviene de [Youtube]([https://developers.google.com/youtube/v3/docs/videos/list?hl=es](https://developers.google.com/youtube/v3/docs/videos/list?hl=es))
+- La data a consumir proviene de [Youtube](https://developers.google.com/youtube/v3/docs/videos/list?hl=es)
 
 # Ejercicios
 
