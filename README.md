@@ -27,7 +27,7 @@ Utilizando la api de [Youtube](https://developers.google.com/youtube/v3/docs/vid
 # Ejercicios
 
 ### 1. Home.
-![]([https://i.imgur.com/8Ezeakj.png](https://i.imgur.com/8Ezeakj.png))
+![](https://i.imgur.com/8Ezeakj.png)
 
 __REQUERIMIENTO:__
 Se requiere una vista "HOME" donde muestre en cuadrícula las canciones resultado de la búsqueda.
