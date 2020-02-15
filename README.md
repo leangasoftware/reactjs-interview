@@ -1,4 +1,4 @@
-
+  
 # Entrevista ReactJS
 
 ![](https://interacso.com/blog/wp-content/uploads/2019/05/React-post-interacso.png)
@@ -19,18 +19,25 @@ __REACT-JS-INTERVIEW__
 > Recomendación: No importa terminar todos los ejercicios, lo más importante es la funcionalidad del ejercicio resuelto(s).
 
 ### Contexto:
-Utilizando la api de [Youtube](https://developers.google.com/youtube/v3/docs/videos/list?hl=es)  construir una WebApp que permita obtener un listado de los videos mediante una búsqueda. Haciendo uso de "Drag & Drop" agregar los videos a una lista y ordenarlos, luego de ordenados poder reproducir los videos en el orden especificado o poder dar click para reproducir una canción en concreto.
+Utilizando la api de  <del>Youtube</del> [Napster]([https://developer.napster.com/api/v2.2](https://developer.napster.com/api/v2.2))  construir una WebApp que permita obtener un listado de los videos mediante una búsqueda. Haciendo uso de "Drag & Drop" agregar los videos a una lista y ordenarlos, luego de ordenados poder reproducir los videos en el orden especificado o poder dar click para reproducir una canción en concreto.
 
 ### Antes de empezar:
-- La data a consumir proviene de [Youtube](https://developers.google.com/youtube/v3/docs/videos/list?hl=es)
+- La data a consumir proviene de <del>Youtube</del> [Napster]([https://developer.napster.com/api/v2.2](https://developer.napster.com/api/v2.2))
 
 # Ejercicios
 
 ### 1. Home.
 ![](https://i.imgur.com/8Ezeakj.png)
+> Image Home
+
+![](https://i.imgur.com/mfGxmlJ.png)
+> Image Play
 
 __REQUERIMIENTO:__
 Se requiere una vista "HOME" donde muestre en cuadrícula las canciones resultado de la búsqueda.
+Estos resultados servirán para dos (2) cosas:
+- 1. Crear lista de reproducción.
+- 2. Poder reproducir una(1) canción dando click sobre ella, la cual lo llevará a una ruta llamada `/play/{track}`
 
 - Vista principal  __SEARCH_TRACKS_LIST__ 
 	- RUTA: `/home` 
@@ -66,5 +73,7 @@ Como no tenemos una base de datos vamos utilizar el ingenio para compartir la da
 
 ### Extra.
 Si has llegado hasta este punto, y consideras que tienes tiempo se valora el hecho de que puedas desplegar tu proyecto en [Heroku](https://www.heroku.com/) o en cualquier servidor de tu gusto.
+
+> Gracias a [https://github.com/miguelseguramx](https://github.com/miguelseguramx) y sus aportaciones!
 
 Gracias por participar!
